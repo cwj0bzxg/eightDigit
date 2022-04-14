@@ -1,2 +1,9 @@
-# eightDigit
-用A*算法求解八数码问题（C++）
+### 用A*算法求解八数码问题
+#### 使用：
+1. 将eightDigit.cpp文件复制到你的项目中  
+2. 按照示例输入起始矩阵和目标矩阵  
+3. 运行
+
+#### 参考：
+b站：BV1QK4y1j7bi  
+csdn：https://blog.csdn.net/hitwhylz/article/details/23089415
