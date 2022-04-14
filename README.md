@@ -4,6 +4,10 @@
 2. 按照示例输入起始矩阵和目标矩阵  
 3. 运行
 
+#### 说明：
+本程序没有检测输入正确与否的能力  
+输入时自己注意点哈
+
 #### 参考：
 b站：BV1QK4y1j7bi  
 csdn：https://blog.csdn.net/hitwhylz/article/details/23089415
