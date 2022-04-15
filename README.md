@@ -7,6 +7,3 @@
 #### 说明：
 本程序没有检测输入正确与否的能力  
 输入时自己注意点哈
-
-#### 参考：
-csdn：https://blog.csdn.net/hitwhylz/article/details/23089415
